@@ -1,0 +1,11 @@
+com\sync\AbstractScanJob.class
+com\sync\App.class
+com\sync\FileUploader.class
+com\sync\validateObrigacao.class
+com\sync\JobValidate.class
+com\model\ModelRequest.class
+com\sync\PdfParser.class
+com\model\ModelNewRequest.class
+com\sync\FileScanJob.class
+com\sync\PortalServiceClient.class
+com\sync\HttpPostLoginRequest.class
